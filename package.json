@@ -1,0 +1,19 @@
+{
+  "name": "yude-agencia",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.104.1",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.10"
+  }
+}
